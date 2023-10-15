@@ -13,4 +13,7 @@ Uygulamada bulunan ekranlar ve özellikleri:
 <img src="gorseller/kiralama.png" height="300">  
 **6- Admin Paneli** Url'e admin/ yazılarak giriş yapılabilmektedir. Bu ekrandan mevcut kullanıcılar, iha'lar ve kiralama bilgilerinin yer aldığı ayrı ayrı bulunan ilişkisel veritabanı tablolarına ulaşılabilir. Admin veriler üzerinde ekle sil ve güncelle işlemlerini bu paneli kullanarak gerçekleştirebilir.    
 <img src="gorseller/admin_panel.png" height="300">  
+**7- Detay Bilgi** Kullanıcıların butonlar yardımıyla istedikleri iha hakkında detaylı bilgi görüntüleyebildikleri sayfa.  
+<img src="gorseller/detay.png" height="300">    
+
 
