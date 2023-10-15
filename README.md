@@ -16,4 +16,5 @@ Uygulamada bulunan ekranlar ve özellikleri:
 **7- Detay Bilgi** Kullanıcıların butonlar yardımıyla istedikleri iha hakkında detaylı bilgi görüntüleyebildikleri sayfa.  
 <img src="gorseller/detay.png" width = "300" height="300">    
 
+Not: Veritabanı için tablolar ayrı ayrı oluşturulup birbirine primary key ile bağlanmıştır.
 
