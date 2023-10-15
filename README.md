@@ -12,7 +12,7 @@ Uygulamada bulunan ekranlar ve özellikleri:
 **5-IHA Kiralama** Bu sayfada kullanıcı kiralamak istediği iha'nın görselinin altında yer alan "detaylı bilgi" veya "kirala" butonlarını kullanarak işlemlerini gerçekleştirebilir.   
 <img src="gorseller/kiralama.png" width = "600" height="300">  
 **6- Admin Paneli** Url'e admin/ yazılarak giriş yapılabilmektedir. Bu ekrandan mevcut kullanıcılar, iha'lar ve kiralama bilgilerinin yer aldığı ayrı ayrı bulunan ilişkisel veritabanı tablolarına ulaşılabilir. Admin veriler üzerinde ekle sil ve güncelle işlemlerini bu paneli kullanarak gerçekleştirebilir.    
-<img src="gorseller/admin_panel.png" width = "600" height="300">  
+<img src="gorseller/admin_panel.png" width = "300" height="300">  
 **7- Detay Bilgi** Kullanıcıların butonlar yardımıyla istedikleri iha hakkında detaylı bilgi görüntüleyebildikleri sayfa.  
 <img src="gorseller/detay.png" width = "600" height="300">    
 
